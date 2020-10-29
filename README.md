@@ -10,7 +10,7 @@ These instructions will help you in starting the project once you have cloned it
 If you have MongoDB already installed then it's well and good else you can download it by clicking here 
 ([MongoDB](https://www.mongodb.com/))
 
-* Now open GIT Bash terminal in the folder where you have cloned Pet-Match and run the following commands.
+* Now open the GIT Bash terminal in the folder where you have cloned Pet-Match and run the following commands.
 These commands will install the required packages which you need to have for running the project.
 
 ```
